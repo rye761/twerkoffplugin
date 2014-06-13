@@ -1,0 +1,9 @@
+name: TwerkPlugin
+main: ryebread761.plugins.twerkplugin.TwerkPlugin
+version: 1
+commands:
+   twerkoff:
+      description: Use the twerkoff plugin.
+      usage: /twerkoff [action] [args]
+      permission: twerkoff.use
+      permission-message: You don't have <permission>
